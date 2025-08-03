@@ -1,0 +1,63 @@
+.hello{
+    color:#6b1f1f ;
+}
+.photo{
+    border-radius:30%;
+    margin-right: 10px;
+}
+.little{
+    color:#6b1f1f ;
+}
+.coding{
+    color:#6b1f1f ;
+    text-align: center;
+}
+.tool{
+    margin: 10px;
+}
+.html{
+    height: 90px;
+    width: 100px;
+    float: left;
+    width: 16.6%;
+
+}
+.css{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16.6%;
+
+}
+.javascript{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.python{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.c{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.nodejs{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+.reactjs{
+    height: 90px;
+    width: 90px;
+    float: left;
+    width: 16%;
+}
+  
+  
